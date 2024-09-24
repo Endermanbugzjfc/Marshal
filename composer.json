@@ -1,0 +1,12 @@
+{
+    "name": "sandertv/marshal",
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "extra":{
+        "virion": {
+            "spec": "3.0",
+            "namespace-root": "Sandertv\\Marshal"
+        }
+    }
+}
